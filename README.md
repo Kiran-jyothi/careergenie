@@ -77,14 +77,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots *(optional if you want to add later)*
-
-| Resume Upload | Matching Results |
-| ------------- | ---------------- |
-| *(screenshot placeholder)* | *(screenshot placeholder)* |
-
----
-
 ## ✨ Roadmap
 
 - ✅ Experience filter
